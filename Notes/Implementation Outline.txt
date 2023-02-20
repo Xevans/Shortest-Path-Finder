@@ -1,0 +1,44 @@
+Implementation requirements:
+- Must utilize 3 data structures
+	- An undirected graph using an adjacency matrix (2D array OR link adjacency list)
+	- MST will be stored in a multi-way tree with the left child -- right sibling representation
+	- A binary heap (Prims algorithm)
+
+- In laymans terms, you will need:
+	- A matrix (for graph)
+	- left child right sibling tree (for MST)
+		- If graph becomes disconnected, you will have multiple MSTs
+	-min heap
+
+Steps
+
+init a 2d array 
+
+we will hard code test values for now.
+
+we expect a 3 to be input that specifies that the matrix/2D array will look like 3x3 but in reality will be nxn
+
+0 0 0      [0][0] [0][1] [0][2]
+0 0 0 aka  [1][0] [1][1] [1][2]
+0 0 0      [2][0] [2][1] [2][2]
+
+using the value 3
+we init a 2D array with [3][3]
+
+This is the matrix representation of a 3x3 graph before weighted edges are made:
+
+0 0 0
+0 0 0 
+0 0 0
+
+	1	2	3
+1     0     1     0
+
+2     1     0     1
+
+3     0     1     0
+
+
+graph looks like:
+
+1 -- 2 -- 3

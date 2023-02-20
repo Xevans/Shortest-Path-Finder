@@ -1,0 +1,16 @@
+Vertex Name: 1
+Vertex: 1 has no edges.
+Vertex Name: 2
+Vertex: 2 has no edges.
+Vertex Name: 3
+Vertex: 3 has no edges.
+Vertex Name: 4
+Vertex: 4 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Nothing in heap to print

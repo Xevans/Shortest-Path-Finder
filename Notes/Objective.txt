@@ -1,0 +1,41 @@
+Goal: 
+
+- We want to input a an undirected graph with weighted edges. Then, we will use that to 	compute a Minimum Spanning Tree (MST).
+
+- As changes occur to the graph, those changes will be reflected in the MST representation
+
+	- Said changes will include: insertion and deletion of edges, verticies and changing 		weight values
+
+
+Inputs:
+
+- will come from standard input files specified by user.
+
+-input format: 
+	- begins with an initial number of verticies that the graph will start with.
+	- Followed by a list of verticy names (one per line; in order).
+
+Ex of initial file input (to init graph):
+3
+V1
+V2
+V3
+
+- How edges are specified in input 
+
+	- The number of edges will appear on one line, followed by a list of edges
+	
+Ex of edges betweeen vertecies being created
+2
+V1 V2 43
+V2 V3 170
+
+- We see that there will be two edges
+- V1 links to V2 with a weight of 43
+- V2 links to V3 with a weight of 170
+
+
+Outputs:
+
+- Will output to screen and output file (specified by user).
+- For part 1, program will only need to print the MST for the initial g

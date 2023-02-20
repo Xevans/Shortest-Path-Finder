@@ -1,0 +1,22 @@
+PG 			
+PM 		
+IV V4		                                
+IE V3 V4 10	 
+IW V3 V4 12	
+IV V5		                                
+IE V2 V5 15	
+DW V3 V4 6     
+DV V3             	 
+DE V1 V2 	 
+PG		
+PM		
+IE V4 V5 12	
+IE V1 V2 43	
+IE V1 V4 17	
+IV V3		
+IE V1 V3 5	
+IE V3 V4 26		
+DV V2		  
+IV V6		
+IE V1 V3 2	
+

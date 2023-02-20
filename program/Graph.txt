@@ -1,0 +1,17 @@
+Vertex: 1 added.
+Vertex: 2 added.
+Vertex: 3 added.
+Edge added between Vertex 1 and Vertex 2 with a weight of: 5
+Edge added between Vertex 2 and Vertex 1 with a weight of: 5
+Edge added between Vertex 2 and Vertex 3 with a weight of: 20
+Edge added between Vertex 3 and Vertex 2 with a weight of: 20
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 5
+
+Vertex Name: 2
+Edge Name: 1 | Edge weight: 5
+Edge Name: 3 | Edge weight: 20
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 20
+

@@ -1,0 +1,78 @@
+Vertex Name: 1
+Edge Name: 5 | Edge weight: 13
+Edge Name: 2 | Edge weight: 77
+
+Vertex Name: 2
+Edge Name: 4 | Edge weight: 63
+Edge Name: 1 | Edge weight: 77
+
+Vertex Name: 3
+Edge Name: 4 | Edge weight: 96
+
+Vertex Name: 4
+Edge Name: 2 | Edge weight: 63
+Edge Name: 3 | Edge weight: 96
+
+Vertex Name: 5
+Edge Name: 1 | Edge weight: 13
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 13
+Vertex: 2	Weight: 77
+
+Printing MST
+Vertex: 1
+Vertex: 5
+Current MST Weight: 13
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 77
+
+Printing MST
+Vertex: 1
+Vertex: 5
+Vertex: 2
+Current MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 4	Weight: 63
+
+Printing MST
+Vertex: 1
+Vertex: 5
+Vertex: 2
+Vertex: 4
+Current MST Weight: 153
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 96
+
+Printing MST
+Vertex: 1
+Vertex: 5
+Vertex: 2
+Vertex: 4
+Vertex: 3
+Current MST Weight: 249
+
+Done making MST!
+
+MST Final Weight: 249

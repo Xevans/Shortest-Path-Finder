@@ -1,0 +1,1245 @@
+Vertex: 1 added.
+Vertex: 2 added.
+Vertex: 3 added.
+Edge added between Vertex 1 and Vertex 2 with a weight of: 90
+Edge added between Vertex 2 and Vertex 1 with a weight of: 90
+Edge added between Vertex 2 and Vertex 3 with a weight of: 10
+Edge added between Vertex 3 and Vertex 2 with a weight of: 10
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+Done making MST path!
+
+Vertex: 4 added.
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Vertex: 4 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Vertex: 5 added.
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Vertex: 4 has no edges.
+Vertex Name: 5
+Vertex: 5 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 5
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Vertex: 6 added.
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Vertex: 4 has no edges.
+Vertex Name: 5
+Vertex: 5 has no edges.
+Vertex Name: 6
+Vertex: 6 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 5
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 6
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Edge added between Vertex 4 and Vertex 5 with a weight of: 67
+Edge added between Vertex 5 and Vertex 4 with a weight of: 67
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+
+Vertex Name: 6
+Vertex: 6 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 6
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Edge added between Vertex 5 and Vertex 6 with a weight of: 85
+Edge added between Vertex 6 and Vertex 5 with a weight of: 85
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 5 | Edge weight: 85
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 85
+
+Printing MST
+Vertex: 4
+Vertex: 5
+Vertex: 6
+MST Weight: 152
+
+Done making MST path!
+
+Vertex: 7 added.
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Vertex: 7 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 85
+
+Printing MST
+Vertex: 4
+Vertex: 5
+Vertex: 6
+MST Weight: 152
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 7
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Vertex: 8 added.
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Vertex: 7 has no edges.
+Vertex Name: 8
+Vertex: 8 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 85
+
+Printing MST
+Vertex: 4
+Vertex: 5
+Vertex: 6
+MST Weight: 152
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 7
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 8
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Edge added between Vertex 7 and Vertex 8 with a weight of: 55
+Edge added between Vertex 8 and Vertex 7 with a weight of: 55
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Edge Name: 8 | Edge weight: 55
+
+Vertex Name: 8
+Edge Name: 7 | Edge weight: 55
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 85
+
+Printing MST
+Vertex: 4
+Vertex: 5
+Vertex: 6
+MST Weight: 152
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 7
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 8	Weight: 55
+
+Printing MST
+Vertex: 7
+Vertex: 8
+MST Weight: 55
+
+Done making MST path!
+
+Vertex: 9 added.
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Edge Name: 8 | Edge weight: 55
+
+Vertex Name: 8
+Edge Name: 7 | Edge weight: 55
+
+Vertex Name: 9
+Vertex: 9 has no edges.
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 85
+
+Printing MST
+Vertex: 4
+Vertex: 5
+Vertex: 6
+MST Weight: 152
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 7
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 8	Weight: 55
+
+Printing MST
+Vertex: 7
+Vertex: 8
+MST Weight: 55
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 9
+Weight of current MST: 0
+
+
+Nothing in heap to print
+
+Done making MST path!
+Edge added between Vertex 7 and Vertex 9 with a weight of: 44
+Edge added between Vertex 9 and Vertex 7 with a weight of: 44
+Vertex Name: 1
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Edge Name: 9 | Edge weight: 44
+Edge Name: 8 | Edge weight: 55
+
+Vertex Name: 8
+Edge Name: 7 | Edge weight: 55
+
+Vertex Name: 9
+Edge Name: 7 | Edge weight: 44
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 2
+MST Weight: 90
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 2
+Vertex: 3
+MST Weight: 100
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 4
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 67
+
+Printing MST
+Vertex: 4
+Vertex: 5
+MST Weight: 67
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 85
+
+Printing MST
+Vertex: 4
+Vertex: 5
+Vertex: 6
+MST Weight: 152
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 7
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 9	Weight: 44
+Vertex: 8	Weight: 55
+
+Printing MST
+Vertex: 7
+Vertex: 9
+MST Weight: 44
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 8	Weight: 55
+
+Printing MST
+Vertex: 7
+Vertex: 9
+Vertex: 8
+MST Weight: 99
+
+Done making MST path!
+
+Edge added between Vertex 1 and Vertex 6 with a weight of: 8
+Edge added between Vertex 6 and Vertex 1 with a weight of: 8
+Vertex Name: 1
+Edge Name: 6 | Edge weight: 8
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 1 | Edge weight: 8
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Edge Name: 9 | Edge weight: 44
+Edge Name: 8 | Edge weight: 55
+
+Vertex Name: 8
+Edge Name: 7 | Edge weight: 55
+
+Vertex Name: 9
+Edge Name: 7 | Edge weight: 44
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 8
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+MST Weight: 8
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 85
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+MST Weight: 93
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 4	Weight: 67
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 4
+MST Weight: 160
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 4
+Vertex: 2
+MST Weight: 250
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 4
+Vertex: 2
+Vertex: 3
+MST Weight: 260
+
+
+Nothing in heap to print
+
+Printing MST
+Vertex: 7
+Weight of current MST: 0
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 9	Weight: 44
+Vertex: 8	Weight: 55
+
+Printing MST
+Vertex: 7
+Vertex: 9
+MST Weight: 44
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 8	Weight: 55
+
+Printing MST
+Vertex: 7
+Vertex: 9
+Vertex: 8
+MST Weight: 99
+
+Done making MST path!
+
+Edge added between Vertex 5 and Vertex 8 with a weight of: 12
+Edge added between Vertex 8 and Vertex 5 with a weight of: 12
+Vertex Name: 1
+Edge Name: 6 | Edge weight: 8
+Edge Name: 2 | Edge weight: 90
+
+Vertex Name: 2
+Edge Name: 3 | Edge weight: 10
+Edge Name: 1 | Edge weight: 90
+
+Vertex Name: 3
+Edge Name: 2 | Edge weight: 10
+
+Vertex Name: 4
+Edge Name: 5 | Edge weight: 67
+
+Vertex Name: 5
+Edge Name: 8 | Edge weight: 12
+Edge Name: 4 | Edge weight: 67
+Edge Name: 6 | Edge weight: 85
+
+Vertex Name: 6
+Edge Name: 1 | Edge weight: 8
+Edge Name: 5 | Edge weight: 85
+
+Vertex Name: 7
+Edge Name: 9 | Edge weight: 44
+Edge Name: 8 | Edge weight: 55
+
+Vertex Name: 8
+Edge Name: 5 | Edge weight: 12
+Edge Name: 7 | Edge weight: 55
+
+Vertex Name: 9
+Edge Name: 7 | Edge weight: 44
+
+
+MST Source is: 1
+
+Printing MST
+Vertex: 1
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 6	Weight: 8
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+MST Weight: 8
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 5	Weight: 85
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+MST Weight: 93
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 8	Weight: 12
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 8
+MST Weight: 105
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 4	Weight: 67
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 8
+Vertex: 4
+MST Weight: 172
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 7	Weight: 55
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 8
+Vertex: 4
+Vertex: 7
+MST Weight: 227
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 9	Weight: 44
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 8
+Vertex: 4
+Vertex: 7
+Vertex: 9
+MST Weight: 271
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 2	Weight: 90
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 8
+Vertex: 4
+Vertex: 7
+Vertex: 9
+Vertex: 2
+MST Weight: 361
+
+
+Printing Heap In pre order. 
+(Heap Resets per iteration).
+
+Vertex: 3	Weight: 10
+
+Printing MST
+Vertex: 1
+Vertex: 6
+Vertex: 5
+Vertex: 8
+Vertex: 4
+Vertex: 7
+Vertex: 9
+Vertex: 2
+Vertex: 3
+MST Weight: 371
+
+Done making MST path!
+

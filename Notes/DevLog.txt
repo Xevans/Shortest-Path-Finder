@@ -1,0 +1,172 @@
+3/24
+(Morning)
+Trying to get my bearings on using vectors as a matrix. After some practice, things are making sense.
+
+Right now I can initialize a 2D matrix (vector) with default values of 0/infinity
+
+There are some problems when I resize the vector, but seeing as the input will specifiy the number of verticies on the graph in the initial file, that won't be a concern.
+
+The next focus will be creating an MST and thinking about representation. Following that will be a Binary heap.
+
+
+
+
+3/25
+I think it best to put the MST in it's own class and has it recieve the matrix from the graph class to create the MST. Just to keep things modular.
+
+Current taks:
+
+How to make a MST representation
+How to add more vertecies beyond initial spec
+
+
+4:12 p.m.
+
+Rethinking how the graph structure with look.
+
+A struct called graph:
+holds an array of pointers of a type
+
+Struct called adjacency list:
+A linked list
+
+A struct called node:
+Will contain an int being vertex
+Will contain a pointer to next
+
+
+3/26
+5:14 p.m.
+
+After drawing some draft data structures, and drafting algorithms for the operations done of those structires and their data, I have a working adjacency list.
+
+This approach allows me to stor more data freely using a vector that holds node structures, that make up the graph.
+
+Right now, my program can:
+- Build the initial graph
+- Print the initial graph
+
+What remains to be done:
+
+- Prims algorithm as a binary heap
+- Printing an MST out of the Binary heap (left child right sibling representation)
+
+
+
+3/27
+3:48 p.m.
+
+Still making progress on having my program emulate prim's algorithm.
+The algorithm will make a vector of nodes and their data. The order they are stored will be the same order they will be stored in the binary heap.
+
+So, once this algorithm works. I will make the binary heap. Then representing that as an MST (a left child right sibling tree).
+
+Planing things out:
+
+- By the end of Monday, makeList should be functional
+
+- By the end of Tuesday, the Binary heap and MST should be made.
+
+- Wednesday, finish up paper work and run tests
+
+
+
+3/30
+9:00 a.m.
+
+What remains to be done:
+
+-Need to make a swap function
+
+-add another edge to adjacency matrix
+
+-if MST is not null, we need to add a left child that is the value picked from the min value of the heap
+
+
+6:30 p.m.
+
+What remains to be done:
+
+- Printing the Heap when upon exiting function. (Done)
+
+- Printing MST per iteration. (Done)
+
+- Get data read in from input file (user specified) (Done)
+
+- Print iterative graph and MST to a file and final product to screen. User doesn't need to specify name. (Done)
+
+
+
+ Shape: V1 -- 43 -- V2 -- 170 -- V3)
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Part 2
+- Ensuring MST is add in left sibling right sibling way.
+
+If they have the same source we know they are both one away from that source
+
+- must do so for corresponding vertex when
+	- inserting an edge
+	- deleting an edge
+	- subtracting edge weight (in function)
+	- adding edge weight (in function)
+
+- when deleting a vertex
+	- Delete it's edges first. 
+
+- Reading commands: after reading initial file, program will need to act on cases for reading in commands from text file
+
+- Freeing memory: Deleting vectors of alocated memory and pointers to allocated memory must be looped through and deleted using the actual delete command. (.clear function results in mem leak)
+
+- need to print messages in graph operations. "vertex 5 added"
+
+- in cases, print graph and print MST will be called at the end of each
+
+
+
+
+4/2 11:00 a.m.
+
+Program can now print multiple MSTs. Since the MST is rebuilt on each iteration, changes made to the graph will not cause an issue.
+
+
+
+
+4/3 11:10 a.m.
+
+Program has been tested to run all required operations. The next goals are...
+
+- Creating a case switch system to handle different commands read
+(Done)
+
+- adding output file messages in functions to show what it's doing
+(Done)
+
+- testing
+(Done)
+
+- Dealing with memory leaks (Done!)
+
+
+4/5 8:00 a.m.
+
+- make sure output file looks good (Done)
+
+- paper work (Doing)
+
+- If I still have time, figuring out the right child setup
+ - as it stands now, the mst print left children.
+
+
+
+
+
+
+
+
+
+
+
+

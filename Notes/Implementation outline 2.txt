@@ -1,0 +1,15 @@
+For part 2 Program needs to have operations to:
+
+-Increase/decrease edge weight (Done!)
+-Insert vertex (Done!)
+-Insert edge (Done!) *Must call for vert1, vert2 then vert2, vert1
+-Delete edge (Done!)
+-Delete vertex (Done!)
+
+
+Checklist to make sure each operation has been tested individually
+-Increase/decrease edge weight ()
+-Insert vertex (Tested)
+-Insert edge (Tested) *Must call for vert1, vert2 then vert2, vert1
+-Delete edge (Tested)
+-Delete vertex (Tested)
